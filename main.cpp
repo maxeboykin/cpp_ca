@@ -6,10 +6,12 @@
 #include "referencePointers.h"
 #include "piggyBank.h"
 #include "loops.h"
+#include "rockPaperScissors.h"
 using namespace std;
 
 int main() {
-    loopsLesson();
+    rockPaperScissors();
+    //loopsLesson();
     //piggyBank();
     //referencePointersLesson();
     //dataTypesLesson();
